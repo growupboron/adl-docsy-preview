@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/apis_services/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/apis_services/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/devguides/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/getting_started/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/hardware/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/howto/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

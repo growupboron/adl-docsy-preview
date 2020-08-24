@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "docsy"
+publishDir = "docs"
 
 [[menu.main]]
     name = "apis_services" 
@@ -16,7 +17,7 @@ theme = "docsy"
 [params]
 
 # Docsy: Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "007239566369470735695:624rglujm-w"
+gcs_engine_id = ""
 
 # Text label for the version menu in the top bar of the website.
 version_menu = "master"
