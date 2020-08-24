@@ -2,6 +2,4 @@
 
 ### Github page : 
 
-### Readthedocs : 
-
 ### [GSoD 2020 Proposal](https://growupboron.github.io/blog/the-linux-foundation-gsod-2020-proposal/)
